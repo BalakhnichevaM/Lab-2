@@ -1,3 +1,5 @@
+#Балахничёва Мария  ИСУ: 367852
+
 import os
 import time
 def esc(code):
